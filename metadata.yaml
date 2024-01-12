@@ -1,0 +1,41 @@
+_repo: Nature-readers-b-Sea-side-and-way-side-No-4_72508
+_version: 0.0.1
+alternative_title: 'Nature readers :  Seaside and wayside. No. 4'
+contributor:
+  illustrator:
+    agent_name: King, C. S.
+    alias: King, C.S.
+    gutenberg_agent_id: '56515'
+    url: http://www.gutenberg.org/2009/agents/56515
+creator:
+  author:
+    agent_name: Wright, Julia McNair
+    alias: Wright, J. McNair (Julia McNair)
+    birthdate: 1840
+    deathdate: 1903
+    gutenberg_agent_id: '56251'
+    url: http://www.gutenberg.org/2009/agents/56251
+    wikipedia: https://en.wikipedia.org/wiki/Julia_McNair_Wright
+description: No. 4 has chapters on geological history, astronomy, and various animals.
+gutenberg_issued: '2023-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72508'
+language: en
+pgterms:marc904: https://archive.org/details/naturereaderssea04wrigrich/page/n5/mode/2up
+pgterms:marc905: 20221024162054wright
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Carla Foust and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bD. C. Heath & Co., $c1891, pubdate 1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcsh 'Nature study -- Juvenile literature'
+- !lcc 'QH'
+- GITenberg
+title: 'Nature readers : $b Sea-side and way-side. No. 4'
+url: http://www.gutenberg.org/ebooks/72508
